@@ -1,4 +1,7 @@
 //Class header
+#ifndef MyClass_H
+#define MyClass_H
+
 
 class MyClass
 {
@@ -7,6 +10,11 @@ class MyClass
            bool fun;
 
   public: 
+
+          MyClass();
+          ~MyClass();
+          
+          
  	  void setNum (int);
           int getNum ();
 

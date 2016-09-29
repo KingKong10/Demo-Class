@@ -1,7 +1,7 @@
 //complete me
 
 #include <iostream>
-#include "MyClass"
+#include "MyClass.h"
 #include <string.h>
 using namespace std;
 
